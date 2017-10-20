@@ -1,5 +1,7 @@
 # workshop-template
 
+UFplants Software carpentry Workshop: https://ufplants.github.io/2018-01-27-ufl/
+
 This repository is [Software Carpentry][swc-site] and [Data Carpentry][dc-site]'s
 template for creating websites for workshops.
 
